@@ -1,7 +1,5 @@
 package io.github.ht4w5.polycalc.models;
 
-import com.sun.source.tree.Tree;
-
 import java.util.TreeMap;
 
 public class Polynomial {
